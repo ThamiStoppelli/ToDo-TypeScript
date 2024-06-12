@@ -1,4 +1,4 @@
-# ToDo in TrypeScript and React
+# ToDo in TypeScript and React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
